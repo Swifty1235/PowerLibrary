@@ -1,0 +1,12 @@
+/Users/swifty/PowerLibrary/bin/Debug/net8.0/PowerLibrary.deps.json
+/Users/swifty/PowerLibrary/bin/Debug/net8.0/PowerLibrary.runtimeconfig.json
+/Users/swifty/PowerLibrary/bin/Debug/net8.0/PowerLibrary.dll
+/Users/swifty/PowerLibrary/bin/Debug/net8.0/PowerLibrary.pdb
+/Users/swifty/PowerLibrary/obj/Debug/net8.0/PowerLibrary.csproj.AssemblyReference.cache
+/Users/swifty/PowerLibrary/obj/Debug/net8.0/PowerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swifty/PowerLibrary/obj/Debug/net8.0/PowerLibrary.csproj.CoreCompileInputs.cache
+/Users/swifty/PowerLibrary/obj/Debug/net8.0/PowerLibrary.dll
+/Users/swifty/PowerLibrary/obj/Debug/net8.0/refint/PowerLibrary.dll
+/Users/swifty/PowerLibrary/obj/Debug/net8.0/PowerLibrary.pdb
+/Users/swifty/PowerLibrary/obj/Debug/net8.0/PowerLibrary.genruntimeconfig.cache
+/Users/swifty/PowerLibrary/obj/Debug/net8.0/ref/PowerLibrary.dll
